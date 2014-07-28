@@ -3,7 +3,7 @@ var gcm = require('node-gcm'),
   _ = require('underscore'),
   // Registration IDs of devices IDs are stored in memory
   registrationIds = [], 
-  sender = new gcm.Sender('AIzaSyC8LGUhFTSUN38CNg0nqSXPrcKbSbMSvEQ'),
+  sender = new gcm.Sender('AIzaSyDGd6hLXVDkzu3DLXiATM-SbCmNJ3Up2kQ'),
   dialog = require('dialog');
 /*
  * GET home page.
